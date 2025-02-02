@@ -8,10 +8,10 @@ There are currently no open-source Bitcoin mining firmware options and we're goi
 If this sounds like a project you want to support, then send The 256 Foundaton a tax deductible donation [here](https://pay.zaprite.com/pl_ZRWeSGjRWG)! Or use The 256 Foundation [PayNym](https://paynym.rs/+appetizingadministration90)!
 
 ## Scope:
-One Project Manager position and one or two engineer positions to fulfill the mission of The 256 Foundation, “Dismantle the proprietary mining empire to make Bitcoin and freedom tech accessible to anyone”. This grant proposal aims to secure funding for:
+One Project Manager position and one or multiple engineer positions to fulfill the mission of The 256 Foundation, “Dismantle the proprietary mining empire to make Bitcoin and freedom tech accessible to anyone”. This grant proposal aims to secure funding for:
 
 * One project manager to oversee and ensure mission adherence, timeliness, and execution. 
-* One or two engineers to develop the Mujina Firmware.
+* One or multiple developers to build the Mujina Firmware.
 * Mujina specifics: Fully open-source Linux-based mining firmware which is compatible with a range of Bitcoin mining hardware drivers like Antminer, Whatsminer, Avalon, and the list can be extended.
 * A built-in StratumV2 client.
 * User-friendly dashboard.
@@ -32,7 +32,7 @@ The timeline for this grant proposal is twelve months with the opportunity to ex
 Materials for this project’s initial release are included in the budget. Potential materials for the project may include but are not limited to compute modules, various I/O boards, various common mining rigs like Antminer or Whatsminer, and various other tools or software.
 
 ## Team Members:
-This proposal is for one project manager and one or two engineers. 
+This proposal is for one project manager and one or multiple developers. 
 
 ## Budget:
 For security reasons, exact dollar amounts are kept confidential. This project budget covers fair-market compensation for one project manager as well as the materials, travel expenses, and living expenses for one or two engineers for twelve months. Funds are disbursed monthly in equal amounts. Within 30-days prior to the expiration of this grant, a renewal opportunity will open and be subject to review and negotiation.  
